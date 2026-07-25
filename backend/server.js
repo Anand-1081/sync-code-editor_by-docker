@@ -1,0 +1,38 @@
+import express from "express"
+import { createServer} from "http"
+import {Server} from "socket.io"
+import {YSocketIO} from "y-socket.io/dist/server"
+
+
+const app = express()
+app.use(express.static("public"))
+const httpserver = createServer(app)
+
+const io = new Server(httpserver, {
+    cors: {
+        origin: "*",
+        methods: ["GET", "POST"]
+    }
+})
+
+
+const ySocket = new YSocketIO(io)
+ySocket.initialize()
+
+
+//  app.get("/", (req,res) => {
+//     res.status(200).json({
+//         message: "Hello world",
+//         success:true
+//     })
+//  })
+
+ app.get('/health',(req , res) =>{
+    res.status(200).json({
+        message: "Server is healthy",
+        success:true
+    })
+ })
+httpserver.listen(3000, () => {
+    console.log("server is running...")
+})
