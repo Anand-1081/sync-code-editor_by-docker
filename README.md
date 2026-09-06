@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.png" alt="Sync Code Editor Banner" width="100%">
+<img src="./frontend/public/logo.png" alt="Sync Code Editor Banner" width="100%">
 
 <br>
 
@@ -9,41 +9,37 @@
 
 <br><br>
 
-<img src="./assets/banner.png" alt="Sync Code Editor Banner" width="100%">
-
 </div>
 
----
 
 <div align="center">
 
 <a href="https://react.dev/">
-  <img src="https://img.shields.io/badge/⚛️_REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/_REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </a>
 <a href="https://vite.dev/">
-  <img src="https://img.shields.io/badge/⚡_VITE-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
+  <img src="https://img.shields.io/badge/_VITE-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://img.shields.io/badge/🟨_JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/_JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </a>
 <a href="https://nodejs.org/">
-  <img src="https://img.shields.io/badge/🟢_NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/_NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 </a>
 <a href="https://expressjs.com/">
-  <img src="https://img.shields.io/badge/🚂_EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/_EXPRESS-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
 </a>
 <a href="https://socket.io/">
-  <img src="https://img.shields.io/badge/🔌_SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
+  <img src="https://img.shields.io/badge/_SOCKET.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO"/>
 </a>
 <a href="https://microsoft.github.io/monaco-editor/">
-  <img src="https://img.shields.io/badge/📝_MONACO_EDITOR-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor"/>
+  <img src="https://img.shields.io/badge/_MONACO_EDITOR-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor"/>
 </a>
 <a href="https://www.docker.com/">
-  <img src="https://img.shields.io/badge/🐳_DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/_DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </a>
 
 </div>
----
 
 ## 📌 About The Project
 
